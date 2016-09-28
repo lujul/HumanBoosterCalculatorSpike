@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HumanBoosterCalculatorSpike</string>
+    <string name="title_activity_fab">FAB</string>
+    <string name="title_activity_calculator">Calculator</string>
 </resources>
