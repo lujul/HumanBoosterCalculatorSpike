@@ -11,8 +11,8 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.androidand.humanboostercalculatorspike.PalimdromeActivity"
-    tools:showIn="@layout/activity_palimdrome">
+    tools:context="com.androidand.humanboostercalculatorspike.CalculatorActivity"
+    tools:showIn="@layout/activity_calculator">
 
     <EditText
         android:id="@+id/edit_text"

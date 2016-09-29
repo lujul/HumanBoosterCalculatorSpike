@@ -18,8 +18,8 @@
         </activity>
 
         <activity
-            android:name=".PalimdromeActivity"
-            android:label="@string/title_activity_palimdrome"
+            android:name=".CalculatorActivity"
+            android:label="@string/title_activity_calculator"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

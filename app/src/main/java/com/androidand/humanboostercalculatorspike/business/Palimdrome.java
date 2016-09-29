@@ -4,7 +4,7 @@ package com.androidand.humanboostercalculatorspike.business;
  * Created by Human Booster on 28/09/2016.
  */
 
-public class Palimdrome {
+public class   Palimdrome {
     public String mot;
 
     public String reve(String mot) {
